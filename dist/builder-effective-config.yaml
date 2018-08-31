@@ -1,0 +1,18 @@
+directories:
+  output: dist
+  buildResources: build
+publish:
+  - provider: github
+    owner: johancblom
+    repo: electron-app
+appId: com.github.johancblom.electron-app
+mac:
+  category: your.app.category.type
+  target:
+    - zip
+    - dmg
+linux:
+  target:
+    - AppImage
+    - deb
+electronVersion: 2.0.8

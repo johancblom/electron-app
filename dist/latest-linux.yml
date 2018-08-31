@@ -1,0 +1,9 @@
+version: 0.6.4
+files:
+  - url: electron-app-0.6.4-x86_64.AppImage
+    sha512: mR9Cg0V6c//+DTiFKKi7Ptu5DWMo1DA3vDbyjXeO6u6k21wspwLvci+bT4r5YxXGXQ/v5bVYY+tt45lCJFVmtA==
+    size: 49993643
+    blockMapSize: 53487
+path: electron-app-0.6.4-x86_64.AppImage
+sha512: mR9Cg0V6c//+DTiFKKi7Ptu5DWMo1DA3vDbyjXeO6u6k21wspwLvci+bT4r5YxXGXQ/v5bVYY+tt45lCJFVmtA==
+releaseDate: '2018-08-31T10:48:02.787Z'
