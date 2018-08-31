@@ -1,6 +1,6 @@
 {
   "name": "electron-app",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "main": "main.js",
   "description": "electron-updater example project",
   "homepage": "https://127.0.0.1",
@@ -9,7 +9,7 @@
     "email": "johancblom@gmail.com"
   },
   "scripts": {
-    "publish": "build -p always"
+    "publish": "build --win -p always"
   },
   "devDependencies": {
     "electron": "^2.0.8",
