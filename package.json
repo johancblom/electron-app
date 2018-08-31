@@ -1,6 +1,6 @@
 {
   "name": "electron-app",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "main": "main.js",
   "description": "electron-updater example project",
   "homepage": "https://127.0.0.1",
