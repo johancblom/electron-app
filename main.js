@@ -23,7 +23,7 @@ log.info("App starting...");
 // THIS SECTION IS NOT REQUIRED
 //-------------------------------------------------------------------
 let template = [];
-if (process.platform === "darwin") {
+//if (process.platform === "darwin") {
   // OS X
   const name = app.getName();
   template.unshift({
@@ -42,7 +42,7 @@ if (process.platform === "darwin") {
       }
     ]
   });
-}
+//}
 
 //-------------------------------------------------------------------
 // Open a window that displays the version
